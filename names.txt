@@ -1,3 +1,25 @@
-Naman Gaur
-Aditya Gaur
-community
+mgate uild- latest wali
+
+prod- v1
+v2 
+v3
+
+deployed branch- main nhi hain
+
+12 repos
+
+QA
+
+
+config-api- nayi branch merge bhi hogya
+
+mgate service
+
+INtermediate tandem v4
+
+customer-api
+equipdefect lst-- defect list(property list)
+
+UI side pe ni hore() angular pe
+
+main pe nhi hain, purana build hai
